@@ -1,0 +1,21 @@
+{
+ "n": 456,
+ "all_clean": {
+  "n": 56,
+  "fail": 7
+ },
+ "any_flag": {
+  "n": 400,
+  "succeed": 176
+ },
+ "disagree_rules_monitor": 0.5679824561403509,
+ "disagree_monitor_oracle": 0.20175438596491227,
+ "disagree_rules_oracle": 0.46710526315789475,
+ "disagree_support_oracle": 0.5614035087719298,
+ "c07_breaches": {
+  "n": 30,
+  "oracle_pass": 22,
+  "monitor_silent": 30,
+  "support_silent": 11
+ }
+}

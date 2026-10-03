@@ -1,0 +1,135 @@
+{
+ "src": "c07",
+ "tgt": "c07",
+ "deterministic": {
+  "caught": 22,
+  "of": 30,
+  "alarmed": 64,
+  "folds": [
+   {
+    "fold": 0,
+    "test_runs": 92,
+    "positives": 7,
+    "caught": 7,
+    "alarmed": 26
+   },
+   {
+    "fold": 1,
+    "test_runs": 92,
+    "positives": 4,
+    "caught": 4,
+    "alarmed": 12
+   },
+   {
+    "fold": 2,
+    "test_runs": 92,
+    "positives": 11,
+    "caught": 7,
+    "alarmed": 11
+   },
+   {
+    "fold": 3,
+    "test_runs": 88,
+    "positives": 8,
+    "caught": 4,
+    "alarmed": 7
+   },
+   {
+    "fold": 4,
+    "test_runs": 92,
+    "positives": 0,
+    "caught": 0,
+    "alarmed": 8
+   }
+  ]
+ },
+ "resampled": {
+  "n": 20,
+  "caught_min": 20,
+  "caught_median": 24.0,
+  "caught_max": 27,
+  "alarmed_median": 66.0,
+  "runs": [
+   {
+    "caught": 24,
+    "alarmed": 66
+   },
+   {
+    "caught": 24,
+    "alarmed": 66
+   },
+   {
+    "caught": 24,
+    "alarmed": 66
+   },
+   {
+    "caught": 27,
+    "alarmed": 69
+   },
+   {
+    "caught": 25,
+    "alarmed": 67
+   },
+   {
+    "caught": 20,
+    "alarmed": 62
+   },
+   {
+    "caught": 24,
+    "alarmed": 66
+   },
+   {
+    "caught": 22,
+    "alarmed": 64
+   },
+   {
+    "caught": 24,
+    "alarmed": 66
+   },
+   {
+    "caught": 23,
+    "alarmed": 65
+   },
+   {
+    "caught": 23,
+    "alarmed": 65
+   },
+   {
+    "caught": 26,
+    "alarmed": 68
+   },
+   {
+    "caught": 25,
+    "alarmed": 67
+   },
+   {
+    "caught": 24,
+    "alarmed": 66
+   },
+   {
+    "caught": 23,
+    "alarmed": 65
+   },
+   {
+    "caught": 25,
+    "alarmed": 67
+   },
+   {
+    "caught": 23,
+    "alarmed": 65
+   },
+   {
+    "caught": 22,
+    "alarmed": 64
+   },
+   {
+    "caught": 24,
+    "alarmed": 66
+   },
+   {
+    "caught": 24,
+    "alarmed": 66
+   }
+  ]
+ }
+}

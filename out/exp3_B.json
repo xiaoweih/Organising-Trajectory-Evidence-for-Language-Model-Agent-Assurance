@@ -1,0 +1,146 @@
+{
+ "n_positive": {
+  "oracle": 220,
+  "rules": 329,
+  "c07": 22,
+  "support": 90,
+  "rules_or_oracle": 387
+ },
+ "monitors": {
+  "oracle": {
+   "auprc": 0.8380289523767812,
+   "base": 0.5685748360166964,
+   "n_alarmed": 200,
+   "detects": {
+    "oracle": {
+     "caught": 177,
+     "of": 220
+    },
+    "rules": {
+     "caught": 137,
+     "of": 329
+    },
+    "c07": {
+     "caught": 0,
+     "of": 22
+    },
+    "support": {
+     "caught": 20,
+     "of": 90
+    },
+    "rules_or_oracle": {
+     "caught": 186,
+     "of": 387
+    }
+   }
+  },
+  "rules": {
+   "auprc": 0.935759235209615,
+   "base": 0.7271168753726893,
+   "n_alarmed": 292,
+   "detects": {
+    "oracle": {
+     "caught": 144,
+     "of": 220
+    },
+    "rules": {
+     "caught": 280,
+     "of": 329
+    },
+    "c07": {
+     "caught": 22,
+     "of": 22
+    },
+    "support": {
+     "caught": 58,
+     "of": 90
+    },
+    "rules_or_oracle": {
+     "caught": 286,
+     "of": 387
+    }
+   }
+  },
+  "c07": {
+   "auprc": 0.32032287119479835,
+   "base": 0.048598688133571856,
+   "n_alarmed": 63,
+   "detects": {
+    "oracle": {
+     "caught": 10,
+     "of": 220
+    },
+    "rules": {
+     "caught": 61,
+     "of": 329
+    },
+    "c07": {
+     "caught": 20,
+     "of": 22
+    },
+    "support": {
+     "caught": 28,
+     "of": 90
+    },
+    "rules_or_oracle": {
+     "caught": 61,
+     "of": 387
+    }
+   }
+  },
+  "support": {
+   "auprc": 0.35758221369517196,
+   "base": 0.19923971377459748,
+   "n_alarmed": 66,
+   "detects": {
+    "oracle": {
+     "caught": 15,
+     "of": 220
+    },
+    "rules": {
+     "caught": 57,
+     "of": 329
+    },
+    "c07": {
+     "caught": 16,
+     "of": 22
+    },
+    "support": {
+     "caught": 30,
+     "of": 90
+    },
+    "rules_or_oracle": {
+     "caught": 57,
+     "of": 387
+    }
+   }
+  },
+  "rules_or_oracle": {
+   "auprc": 0.9496816083941219,
+   "base": 0.8591234347048301,
+   "n_alarmed": 273,
+   "detects": {
+    "oracle": {
+     "caught": 154,
+     "of": 220
+    },
+    "rules": {
+     "caught": 245,
+     "of": 329
+    },
+    "c07": {
+     "caught": 22,
+     "of": 22
+    },
+    "support": {
+     "caught": 52,
+     "of": 90
+    },
+    "rules_or_oracle": {
+     "caught": 267,
+     "of": 387
+    }
+   }
+  }
+ }
+}

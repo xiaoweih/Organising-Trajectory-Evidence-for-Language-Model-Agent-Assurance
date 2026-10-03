@@ -1,0 +1,320 @@
+{
+ "rows": [
+  {
+   "cid": "C01",
+   "A": [
+    302,
+    0,
+    "met"
+   ],
+   "B": [
+    228,
+    0,
+    "met"
+   ],
+   "survives": true
+  },
+  {
+   "cid": "C02",
+   "A": [
+    84,
+    0,
+    "met"
+   ],
+   "B": [
+    69,
+    0,
+    "met"
+   ],
+   "survives": true
+  },
+  {
+   "cid": "C03",
+   "A": [
+    83,
+    2,
+    "violated"
+   ],
+   "B": [
+    68,
+    13,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C04",
+   "A": [
+    181,
+    0,
+    "met"
+   ],
+   "B": [
+    142,
+    0,
+    "met"
+   ],
+   "survives": true
+  },
+  {
+   "cid": "C05",
+   "A": [
+    181,
+    4,
+    "violated"
+   ],
+   "B": [
+    142,
+    4,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C06",
+   "A": [
+    83,
+    0,
+    "met"
+   ],
+   "B": [
+    63,
+    0,
+    "met"
+   ],
+   "survives": true
+  },
+  {
+   "cid": "C07",
+   "A": [
+    32,
+    30,
+    "violated"
+   ],
+   "B": [
+    22,
+    22,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C08",
+   "A": [
+    269,
+    0,
+    "met"
+   ],
+   "B": [
+    252,
+    0,
+    "met"
+   ],
+   "survives": true
+  },
+  {
+   "cid": "C09",
+   "A": [
+    269,
+    2,
+    "violated"
+   ],
+   "B": [
+    252,
+    15,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C10",
+   "A": [
+    456,
+    0,
+    "met"
+   ],
+   "B": [
+    452,
+    15,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C11",
+   "A": [
+    456,
+    452,
+    "violated"
+   ],
+   "B": [
+    452,
+    80,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C12",
+   "A": [
+    113,
+    92,
+    "violated"
+   ],
+   "B": [
+    99,
+    11,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C13",
+   "A": [
+    47,
+    18,
+    "violated"
+   ],
+   "B": [
+    188,
+    166,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C14",
+   "A": [
+    218,
+    118,
+    "violated"
+   ],
+   "B": [
+    160,
+    75,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C15",
+   "A": [
+    435,
+    23,
+    "violated"
+   ],
+   "B": [
+    439,
+    35,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C16",
+   "A": [
+    181,
+    0,
+    "met"
+   ],
+   "B": [
+    142,
+    0,
+    "met"
+   ],
+   "survives": true
+  },
+  {
+   "cid": "C17",
+   "A": [
+    140,
+    37,
+    "violated"
+   ],
+   "B": [
+    140,
+    14,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C18",
+   "A": [
+    76,
+    46,
+    "violated"
+   ],
+   "B": [
+    76,
+    70,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C19",
+   "A": [
+    93,
+    36,
+    "violated"
+   ],
+   "B": [
+    96,
+    35,
+    "violated"
+   ],
+   "survives": false
+  },
+  {
+   "cid": "C20",
+   "A": [
+    224,
+    132,
+    "violated"
+   ],
+   "B": [
+    224,
+    48,
+    "violated"
+   ],
+   "survives": false
+  }
+ ],
+ "summary": {
+  "met_A": 7,
+  "met_B": 6,
+  "survive": 6,
+  "changed": [
+   "C10"
+  ],
+  "i4": [
+   {
+    "viol_runs": 117,
+    "pilot_unsupported_runs": 36,
+    "agree": 375
+   },
+   {
+    "viol_runs": 90,
+    "pilot_unsupported_runs": 65,
+    "agree": 431
+   }
+  ],
+  "gate": [
+   {
+    "blocked": 30,
+    "i5": 456,
+    "response": 456,
+    "sound": 456,
+    "lact": 426
+   },
+   {
+    "blocked": 22,
+    "i5": 456,
+    "response": 456,
+    "sound": 456,
+    "lact": 434
+   }
+  ]
+ }
+}

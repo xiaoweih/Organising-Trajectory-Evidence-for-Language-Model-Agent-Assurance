@@ -1,0 +1,146 @@
+{
+ "n_positive": {
+  "oracle": 231,
+  "rules": 338,
+  "c07": 30,
+  "support": 117,
+  "rules_or_oracle": 391
+ },
+ "monitors": {
+  "oracle": {
+   "auprc": 0.8410917494098215,
+   "base": 0.5646445237441668,
+   "n_alarmed": 183,
+   "detects": {
+    "oracle": {
+     "caught": 161,
+     "of": 231
+    },
+    "rules": {
+     "caught": 131,
+     "of": 338
+    },
+    "c07": {
+     "caught": 0,
+     "of": 30
+    },
+    "support": {
+     "caught": 30,
+     "of": 117
+    },
+    "rules_or_oracle": {
+     "caught": 172,
+     "of": 391
+    }
+   }
+  },
+  "rules": {
+   "auprc": 0.8966216764208244,
+   "base": 0.7405984079055723,
+   "n_alarmed": 220,
+   "detects": {
+    "oracle": {
+     "caught": 112,
+     "of": 231
+    },
+    "rules": {
+     "caught": 209,
+     "of": 338
+    },
+    "c07": {
+     "caught": 30,
+     "of": 30
+    },
+    "support": {
+     "caught": 84,
+     "of": 117
+    },
+    "rules_or_oracle": {
+     "caught": 215,
+     "of": 391
+    }
+   }
+  },
+  "c07": {
+   "auprc": 0.38418730711959553,
+   "base": 0.06162503431237991,
+   "n_alarmed": 64,
+   "detects": {
+    "oracle": {
+     "caught": 15,
+     "of": 231
+    },
+    "rules": {
+     "caught": 57,
+     "of": 338
+    },
+    "c07": {
+     "caught": 22,
+     "of": 30
+    },
+    "support": {
+     "caught": 35,
+     "of": 117
+    },
+    "rules_or_oracle": {
+     "caught": 60,
+     "of": 391
+    }
+   }
+  },
+  "support": {
+   "auprc": 0.5221415033936929,
+   "base": 0.2598133406533077,
+   "n_alarmed": 94,
+   "detects": {
+    "oracle": {
+     "caught": 26,
+     "of": 231
+    },
+    "rules": {
+     "caught": 87,
+     "of": 338
+    },
+    "c07": {
+     "caught": 30,
+     "of": 30
+    },
+    "support": {
+     "caught": 61,
+     "of": 117
+    },
+    "rules_or_oracle": {
+     "caught": 88,
+     "of": 391
+    }
+   }
+  },
+  "rules_or_oracle": {
+   "auprc": 0.9560192940118091,
+   "base": 0.8729755695855065,
+   "n_alarmed": 233,
+   "detects": {
+    "oracle": {
+     "caught": 153,
+     "of": 231
+    },
+    "rules": {
+     "caught": 204,
+     "of": 338
+    },
+    "c07": {
+     "caught": 28,
+     "of": 30
+    },
+    "support": {
+     "caught": 75,
+     "of": 117
+    },
+    "rules_or_oracle": {
+     "caught": 227,
+     "of": 391
+    }
+   }
+  }
+ }
+}
